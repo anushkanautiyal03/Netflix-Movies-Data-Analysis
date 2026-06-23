@@ -22,3 +22,5 @@ This project analyzes a Netflix movie dataset using Python, Pandas, Matplotlib, 
 - Vote distribution
 - Genre distribution
 - Popularity analysis
+
+"This project was created for learning purposes and expanded with my own analysis and visualizations."
